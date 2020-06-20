@@ -1,0 +1,22 @@
+{
+  "name": "tft-auxiliary",
+  "version": "1.0.0",
+  "description": "TFT Auxiliary is building...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skmcoding666/TFT-Auxiliary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skmcoding666/TFT-Auxiliary/issues"
+  },
+  "homepage": "https://github.com/skmcoding666/TFT-Auxiliary#readme",
+  "devDependencies": {
+    "lowdb": "^1.0.0"
+  }
+}
